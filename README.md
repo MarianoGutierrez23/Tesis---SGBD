@@ -9,3 +9,5 @@ El desarrollo de este sistema surgió como proyecto para mi Tesis final de carre
 # Importante
 Ejecutar primero y por única vez, el programa "import.py".
 Luego, la aplicación propiamente dicha es "app.py"
+
+La base de datos en formato ".csv" es editable
