@@ -6,6 +6,6 @@ Esta base de datos contiene información técnica sobre bombas industriales.
 
 El desarrollo de este sistema surgió como proyecto para mi Tesis final de carrera.
 
-#Importante
+# Importante
 Ejecutar primero y por única vez, el programa "import.py"
 Luego, la aplicación propiamente dicha es "app.py"
